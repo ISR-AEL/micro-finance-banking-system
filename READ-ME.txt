@@ -1,0 +1,19 @@
+Microfinance Banking System
+
+A simple and efficient microfinance banking system designed to manage members, savings, and daily commissions. This system allows admins to handle member accounts, track savings, and manage daily and monthly financial operations.
+
+Features
+
+Member Management: Admins can add new members and manage existing ones.
+
+Normal Savings: Members can deposit any amount at any time.
+
+Monthly Commission: A fixed commission of 5 GHS is automatically deducted from each member every month.
+
+Daily Savings: Existing members can register for daily savings at a fixed amount. The daily savings amount can be adjusted every month.
+
+End-of-Month Settlement: At the end of each month, the admin collects the first day’s amount from members who have registered daily savings but did not deposit on the first day (e.g., if a member deposits for 29 out of 30 days, the admin collects the Day 1 amount).
+
+Flexible Management: Admins can monitor, update, and manage all member savings and commissions efficiently.
+
+This system is ideal for small-scale microfinance institutions looking to automate savings tracking, commissions, and daily deposits with minimal manual effort.
