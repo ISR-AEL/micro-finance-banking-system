@@ -187,7 +187,7 @@ $step = $_SESSION['otp_pending'] ?? false; // flag to know which form to show
     <!-- Left -->
     <div class="left-panel">
       <img src="asstes/logo1.png" >
-      <h1>WELCOME TO NEXA MICRO FINANCE BANKING SYSTEM</h1>
+      <h1>MICRO FINANCE BANKING SYSTEM</h1>
       <p>Securely manage accounts, transactions, and reports with our admin dashboard.</p>
       <a href="docs/index.html" class="btn-docs">Check it out</a>
     </div>
